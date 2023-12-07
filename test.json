@@ -857,7 +857,7 @@
     "adsData": {
         "showAds": true,
         "onBoardingScreen": {
-            "bannerAd": true
+            "bannerAd": false
         },
         "dashBoardScreen": {
             "bannerAd": true
@@ -866,7 +866,7 @@
             "nativeAd": true
         },
         "setRingtoneScreen": {
-            "nativeAd": true
+            "nativeAd": false
         }
     }
 }
