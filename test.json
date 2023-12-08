@@ -863,7 +863,7 @@
             "bannerAd": true
         },
         "wallpaperScreen": {
-            "nativeAd": true
+            "nativeAd": false
         },
         "setRingtoneScreen": {
             "nativeAd": false
