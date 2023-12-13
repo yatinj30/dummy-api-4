@@ -14,7 +14,12 @@
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Sukh+Karta+Dukh+Harta(PagalWorld.com.se).mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Jay Ganesh Jay Ganesh",
