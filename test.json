@@ -90,7 +90,12 @@
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_18_14_03_57_AA-DEV-BAPPA-AALE-RINGTONE.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "GANPATI INSTRUMENTAL MUSIC",
@@ -170,7 +175,12 @@
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/ekdantay-vakratunday-dheemhi-16695-47563.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "GAJAMUKHANE GANAPATHIYE",
@@ -233,7 +243,12 @@
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Namavali+09.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Ganesh Panchratna",
@@ -336,7 +351,12 @@
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/PRATHAM+GANESH+BESADO.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(5).jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "PUTRA GANPATI GANPATI",
