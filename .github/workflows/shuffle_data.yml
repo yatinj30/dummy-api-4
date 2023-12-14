@@ -13,7 +13,7 @@ jobs:
       - name: Get random verse
         uses: actions/setup-node@v1
         with:
-          node-version: 16.0.0
+          node-version: 16
 
       - run: node .
 
