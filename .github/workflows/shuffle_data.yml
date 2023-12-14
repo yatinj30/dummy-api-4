@@ -5,12 +5,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  get-verse:
+  get-shuffle-data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Get random verse
+      - name: Get shuffled data
         uses: actions/setup-node@v1
         with:
           node-version: 16
