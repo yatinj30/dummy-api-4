@@ -7,41 +7,13 @@
                 "listName": "Aarti Full Songs",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
-                    {
-                        "title": "Sukh Karta Dukh Harta",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Sukh+Karta+Dukh+Harta(PagalWorld.com.se).mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
-                    },
                     {
                         "title": "Jay Ganesh Jay Ganesh",
                         "subTitle": "Traditional Aarti",
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganesh-Ji-Ki-Aarti(PaglaSongs).mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Deva Shree Ganesha",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Deva+Shree+Ganesha.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Ganpati Gajanan",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganpati+Gajanan.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -62,10 +34,39 @@
                         "otherImageItems": []
                     },
                     {
+                        "title": "Sukh Karta Dukh Harta",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Sukh+Karta+Dukh+Harta(PagalWorld.com.se).mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": [
+                            {
+                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
+                    },
+                    {
                         "title": "Ganesh Gayatri",
                         "subTitle": "",
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganesh+Gayatri(PagalWorld.com.se).mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Deva Shree Ganesha",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Deva+Shree+Ganesha.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ganpati Gajanan",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganpati+Gajanan.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -83,33 +84,21 @@
                 "listName": "Trending Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
                     {
-                        "title": "AA DEV BAPPA AALE",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_18_14_03_57_AA-DEV-BAPPA-AALE-RINGTONE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
+                        "title": "Shubh hi shub - SHRI GANESHA MORYA",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2023_09_17_03_13_37_SHRI-GANESHA-MORYA-RINGTONE.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
                         "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
+                        "otherImageItems": []
                     },
                     {
                         "title": "GANPATI INSTRUMENTAL MUSIC",
                         "subTitle": "",
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_24_05_45_23_GANPATI-INSTRUMENTAL-MUSIC-RINGTONE-DOWNLOAD.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Shubh hi shub - SHRI GANESHA MORYA",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2023_09_17_03_13_37_SHRI-GANESHA-MORYA-RINGTONE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -122,12 +111,25 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "Bhaje Vrajaika Mandanam Samast Per Pakhand Naam",
+                        "title": "GAJAMUKHANE GANAPATHIYE",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/bhaje-vrajaika-mandanam-samast-per-pakhand-naam.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GAJAMUKHANE+GANAPATHIYE.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/God-Ganesh-Ji-Image-HD-Mobile-Wallpaper-Download.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
+                    },
+                    {
+                        "title": "AA DEV BAPPA AALE",
+                        "subTitle": "Marathi Ringtone",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_18_14_03_57_AA-DEV-BAPPA-AALE-RINGTONE.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
+                        "downloadLink": "",
+                        "otherImageItems": [
+                            {
+                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "CHICHHAAS KA GANESH",
@@ -138,18 +140,10 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "CHOTO SO VINAYAK DAGMAG CHALE",
+                        "title": "GANAPATHI DHYANA",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/CHOTO+SO+VINAYAK+DAGMAG+CHALE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Ek dantay",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/cutted-001-1636.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANAPATHI+DHYANA.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(5).jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -162,6 +156,14 @@
                         "otherImageItems": []
                     },
                     {
+                        "title": "Ek dantay",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/cutted-001-1636.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
                         "title": "Deva Shri Ganesha",
                         "subTitle": "",
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/deva-shri-ganesha-18840.mp3",
@@ -170,23 +172,18 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ek Dantay Vakratunday dheemhi",
+                        "title": "CHOTO SO VINAYAK DAGMAG CHALE",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/ekdantay-vakratunday-dheemhi-16695-47563.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/CHOTO+SO+VINAYAK+DAGMAG+CHALE.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
                         "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
+                        "otherImageItems": []
                     },
                     {
-                        "title": "GAJAMUKHANE GANAPATHIYE",
+                        "title": "Bhaje Vrajaika Mandanam Samast Per Pakhand Naam",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GAJAMUKHANE+GANAPATHIYE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/God-Ganesh-Ji-Image-HD-Mobile-Wallpaper-Download.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/bhaje-vrajaika-mandanam-samast-per-pakhand-naam.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -199,12 +196,17 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "GANAPATHI DHYANA",
+                        "title": "Ek Dantay Vakratunday dheemhi",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANAPATHI+DHYANA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(5).jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/ekdantay-vakratunday-dheemhi-16695-47563.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
                     }
                 ]
             },
@@ -212,57 +214,21 @@
                 "listName": "New Arrival Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
+                    {
+                        "title": "Jai Ganesh Deva",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/jai-ganesh-deva-152.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/c2a0dac757a83f1e7a529c1ca056e3e6.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
                     {
                         "title": "GANESH ANTHEM",
                         "subTitle": "",
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANESH+ANTHEM+.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Ganesh Atharvashirsha",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Atharvashirsha+-+Ganapathy+Stotram+!+Hindi.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "GANESH CHATURTHI RINGTONE",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANESH+CHATURTHI+RINGTONE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Vighneshvaray varday surpriyay",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Namavali+09.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Ganesh Panchratna",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Panchratna+!+Stotram.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Ghar me padharo",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/ganesh-ji-tone-3182.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -275,26 +241,10 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "GANPATI BAPPA MORYA MANGAL MURTI MORYA",
+                        "title": "KARO BANDHAN HAI SHIVNANDAN",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANPATI+BAPPA+MORYA+MANGAL+MURTI+MORYA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "HI SAMUNDARACHI LAT",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/HI+SAMUNDARACHI+LAT.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "JAI BOLO GANESH MAHARAJ",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/JAI+BOLO+GANESH+MAHARAJ.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/KARO+BANDHAN+HAI+SHIVNANDAN.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -307,18 +257,71 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "Jai Ganesh Deva",
+                        "title": "GANPATI BAPPA MORYA MANGAL MURTI MORYA",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/jai-ganesh-deva-152.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/c2a0dac757a83f1e7a529c1ca056e3e6.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANPATI+BAPPA+MORYA+MANGAL+MURTI+MORYA.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "KARO BANDHAN HAI SHIVNANDAN",
+                        "title": "GANESH CHATURTHI RINGTONE",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/KARO+BANDHAN+HAI+SHIVNANDAN.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANESH+CHATURTHI+RINGTONE.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "HI SAMUNDARACHI LAT",
+                        "subTitle": "Marathi Ringtone",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/HI+SAMUNDARACHI+LAT.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ganesh Panchratna",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Panchratna+!+Stotram.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Vighneshvaray varday surpriyay",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Namavali+09.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": [
+                            {
+                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "JAI BOLO GANESH MAHARAJ",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/JAI+BOLO+GANESH+MAHARAJ.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ganesh Atharvashirsha",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Atharvashirsha+-+Ganapathy+Stotram+!+Hindi.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ghar me padharo",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/ganesh-ji-tone-3182.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -336,41 +339,13 @@
                 "listName": "Most Favorite Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
                     {
-                        "title": "OM SHRIM BHRIM KLIM GANESH MANTRA",
+                        "title": "Shubhnyna Krunamy Gourihar",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/OM+SHRIM+BHRIM+KLIM+GANESH+MANTRA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(4).jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "PRATHAM GANESH BESADO",
-                        "subTitle": "Gujarati Anthem",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/PRATHAM+GANESH+BESADO.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(5).jpg",
-                        "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "PUTRA GANPATI GANPATI",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/PUTRA+GANPATI+GANPATI.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "RANAT BHAWAR SU AAEYA",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANAT+BHAWAR+SU+AAEYA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Shubhnyna+Krunamy+Gourihar+!+Shee+Ganesh+!+Devotional+Stotram.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -383,38 +358,6 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "Sankata Nashak Ganesh - Stotram",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Sankata+Nashak+Ganesh+-+Stotram.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Shri Ganesh Namavali",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Shri+Ganesh+Namavali+-+Ganesh+Stotram+!+Marathi.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Shubhnyna Krunamy Gourihar",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Shubhnyna+Krunamy+Gourihar+!+Shee+Ganesh+!+Devotional+Stotram.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "SUKH KARTA DUKH HARTA INSTRUMENTAL",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/SUKH+KARTA+DUKH+HARTA+INSTRUMENTAL.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
                         "title": "SUN PAVALANI ALE BAPPA",
                         "subTitle": "",
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/SUN+PAVALANI+ALE+BAPPA.mp3",
@@ -423,18 +366,10 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "Tamev mata",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Tamev+mata.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "TERA HI NAAM PUKARU MEIN",
+                        "title": "PUTRA GANPATI GANPATI",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/TERA+HI+NAAM+PUKARU+MEIN.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/PUTRA+GANPATI+GANPATI.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -461,64 +396,65 @@
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
-                    }
-                ]
-            },
-            {
-                "listName": "Marathi Ringtones",
-                "isDisplay": true,
-                "itemDisplay": 4,
-                "songs": [
-                    {
-                        "title": "CHICHHAAS KA GANESH",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/CHICHHAAS+KA+GANESH.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
-                        "downloadLink": "",
-                        "otherImageItems": []
                     },
                     {
-                        "title": "HI SAMUNDARACHI LAT",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/HI+SAMUNDARACHI+LAT.mp3",
+                        "title": "Tamev mata",
+                        "subTitle": "Marathi Ringtone",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Tamev+mata.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "MAZA BAPPA KITI GOD DISTO",
+                        "title": "TERA HI NAAM PUKARU MEIN",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/MAZA+BAPPA+KITI+GOD+DISTO.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/God-Ganesh-Ji-Image-HD-Mobile-Wallpaper-Download.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/TERA+HI+NAAM+PUKARU+MEIN.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "PRATHAM GANESH BESADO",
+                        "subTitle": "Gujarati Anthem",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/PRATHAM+GANESH+BESADO.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(5).jpg",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
                             }
                         ]
                     },
                     {
-                        "title": "RANAT BHAWAR SU AAEYA",
+                        "title": "OM SHRIM BHRIM KLIM GANESH MANTRA",
                         "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/OM+SHRIM+BHRIM+KLIM+GANESH+MANTRA.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(4).jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Sankata Nashak Ganesh - Stotram",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Sankata+Nashak+Ganesh+-+Stotram.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "RANAT BHAWAR SU AAEYA",
+                        "subTitle": "Marathi Ringtone",
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANAT+BHAWAR+SU+AAEYA.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "RANJAN GAVALA GAVALA MAHAGANPATI NANDLA",
+                        "title": "SUKH KARTA DUKH HARTA INSTRUMENTAL",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANJAN+GAVALA+GAVALA+MAHAGANPATI+NANDLA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Tamev mata",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Tamev+mata.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/SUKH+KARTA+DUKH+HARTA+INSTRUMENTAL.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -533,15 +469,85 @@
                 ]
             },
             {
+                "listName": "Marathi Ringtones",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "isShuffle": true,
+                "songs": [
+                    {
+                        "title": "Shri Ganesh Namavali",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Shri+Ganesh+Namavali+-+Ganesh+Stotram+!+Marathi.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "RANJAN GAVALA GAVALA MAHAGANPATI NANDLA",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANJAN+GAVALA+GAVALA+MAHAGANPATI+NANDLA.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "CHICHHAAS KA GANESH",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/CHICHHAAS+KA+GANESH.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Tamev mata",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Tamev+mata.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "HI SAMUNDARACHI LAT",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/HI+SAMUNDARACHI+LAT.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "RANAT BHAWAR SU AAEYA",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANAT+BHAWAR+SU+AAEYA.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "MAZA BAPPA KITI GOD DISTO",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/MAZA+BAPPA+KITI+GOD+DISTO.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/God-Ganesh-Ji-Image-HD-Mobile-Wallpaper-Download.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": [
+                            {
+                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "listName": "Random Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
                     {
-                        "title": "VEERA VINAYAKA",
+                        "title": "Ganesh Atharvashirsha",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/VEERA+VINAYAKA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Atharvashirsha+-+Ganapathy+Stotram+!+Hindi.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -554,18 +560,10 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "JAI BOLO GANESH MAHARAJ",
+                        "title": "VEERA VINAYAKA",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/JAI+BOLO+GANESH+MAHARAJ.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Ganesh Atharvashirsha",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Atharvashirsha+-+Ganapathy+Stotram+!+Hindi.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/VEERA+VINAYAKA.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -582,6 +580,14 @@
                         "subTitle": "",
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_24_05_45_23_GANPATI-INSTRUMENTAL-MUSIC-RINGTONE-DOWNLOAD.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "JAI BOLO GANESH MAHARAJ",
+                        "subTitle": "",
+                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/JAI+BOLO+GANESH+MAHARAJ.mp3",
+                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
