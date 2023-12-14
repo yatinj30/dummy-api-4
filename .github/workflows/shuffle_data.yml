@@ -1,7 +1,7 @@
 name: Shuffle Data
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "* * * * *	"
   workflow_dispatch:
 
 jobs:
