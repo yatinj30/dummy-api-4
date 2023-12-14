@@ -1,16 +1,16 @@
-name: Dynamic VERSE injection
+name: Shuffle Data
 on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
-  get-verse:
+  get-shuffle-data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Get random verse
+      - name: Get shuffled data
         uses: actions/setup-node@v1
         with:
           node-version: 14.6.0
@@ -24,7 +24,7 @@ jobs:
           git add .
           git config --global user.name "jaykukadiya99"
           git config --global user.email "jaykukadiya99@gmail.com"
-          git commit -m "[Automated] README shlok updated!"
+          git commit -m "[Automated] Data Shuffled!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
