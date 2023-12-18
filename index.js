@@ -21,6 +21,10 @@ async function main() {
             shuffle(data);
         }
     });
+    if (fileData.isWallpaperShuffle) {
+        let data = fileData.wallpapers;
+        shuffle(data);
+    }
     await fs.writeFile("test.json", JSON.stringify(fileData));
 }
 
