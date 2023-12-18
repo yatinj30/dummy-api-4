@@ -893,10 +893,10 @@
             "bannerAd": true
         },
         "wallpaperScreen": {
-            "nativeAd": false
+            "nativeAd": true
         },
         "setRingtoneScreen": {
-            "nativeAd": false
+            "nativeAd": true
         }
     }
 }
