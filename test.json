@@ -18,6 +18,10 @@
                             {
                                 "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
                                 "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
@@ -94,6 +98,10 @@
                             {
                                 "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
                                 "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
@@ -103,7 +111,12 @@
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_24_05_45_23_GANPATI-INSTRUMENTAL-MUSIC-RINGTONE-DOWNLOAD.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Shubh hi shub - SHRI GANESHA MORYA",
@@ -143,7 +156,12 @@
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/CHOTO+SO+VINAYAK+DAGMAG+CHALE.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Ek dantay",
@@ -272,7 +290,16 @@
                         "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANPATI+AAYO+BAPA.mp3",
                         "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            },
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "GANPATI BAPPA MORYA MANGAL MURTI MORYA",
